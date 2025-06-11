@@ -1,0 +1,11 @@
+venv/*
+config/config.conf
+.env
+.DS_Store
+.env.example
+.env.example.txt
+.env.example.txt.txt
+.env.example.txt.txt.txt
+.env.example.txt.txt.txt.txt
+.env.example.txt.txt.txt.txt.txt
+.env.example.txt.txt.txt.txt.txt.txt
